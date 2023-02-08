@@ -1,0 +1,3 @@
+﻿  ser.c
+C:\Users\SEC\Desktop\FINAL_ser\final_ser\ser.c(45,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  final_ser.vcxproj -> C:\Users\SEC\Desktop\FINAL_ser\Debug\final_ser.exe

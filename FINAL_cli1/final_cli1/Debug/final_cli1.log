@@ -1,0 +1,3 @@
+﻿  cli1.c
+C:\Users\SEC\Desktop\FINAL_cli1\final_cli1\cli1.c(32,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  final_cli1.vcxproj -> C:\Users\SEC\Desktop\FINAL_cli1\Debug\final_cli1.exe
